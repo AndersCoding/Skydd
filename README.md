@@ -35,7 +35,7 @@ Appen bruker Firebase til autentisering og datalagring. For at appen skal funger
 1. Opprett firebaseConfig.ts-fil
 
 2. Fyll inn verdiene
-   ```bash
+   ``bash
    const firebaseConfig = {
   apiKey: "DIN_API_KEY",
   authDomain: "DITT_PROSJEKT.firebaseapp.com",
@@ -47,4 +47,5 @@ Appen bruker Firebase til autentisering og datalagring. For at appen skal funger
 };
 
 export default firebaseConfig;
-```
+``
+
