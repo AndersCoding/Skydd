@@ -50,3 +50,7 @@ Appen bruker Firebase til autentisering og datalagring. For at appen skal funger
    ```
 
 
+https://github.com/user-attachments/assets/3d3b716e-3643-416c-9911-32cf13410c8c
+
+
+
