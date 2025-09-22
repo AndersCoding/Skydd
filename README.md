@@ -1,6 +1,6 @@
 # Skydd
 
-## Naitilus Sjø X Høyskolen Kristiania, Bachelor Prosjekt
+## Nautilus Sjø X Høyskolen Kristiania, Bachelor Prosjekt
 
 Dette prosjektet er en app som er utviklet som en bacheloroppgave i sammarbeid med vår oppdragsgiver Nautilus Sjø.
 
