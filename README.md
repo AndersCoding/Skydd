@@ -55,7 +55,10 @@ Appen bruker Firebase til autentisering og datalagring. For at appen skal funger
 
 ## Demo-video
 
-[Se demoen på YouTube](https://youtu.be/DIN_VIDEO_ID)
+
+https://github.com/user-attachments/assets/5bacab8a-cd76-462e-b9fa-e755830938fa
+
+
 
 
 
