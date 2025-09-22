@@ -36,7 +36,7 @@ Appen bruker Firebase til autentisering og datalagring. For at appen skal funger
 
 2. Fyll inn verdiene
    ```bash
-	  const `firebaseConfig` = {
+	  const firebaseConfig = {
 		  apiKey: "DIN_API_KEY",
 		  authDomain: "DITT_PROSJEKT.firebaseapp.com",
 		  databaseURL: "https://DITT_PROSJEKT-default-rtdb.europe-west1.firebasedatabase.app",
@@ -46,7 +46,7 @@ Appen bruker Firebase til autentisering og datalagring. For at appen skal funger
 		  appId: "DIN_APP_ID",
 	};
 
-	export default `firebaseConfig`;
+	export default firebaseConfig;
    ```
 
 
