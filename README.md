@@ -28,3 +28,23 @@ Dette prosjektet er en app som er utviklet som en bacheloroppgave i sammarbeid m
 
    - For Android og iOS, skan QR kode med telefonens kamera.
    - Husk å laste ned Expo Go appen fra App Store eller Google Play.
+  
+## Firebase-konfigurasjon
+Appen bruker Firebase til autentisering og datalagring. For at appen skal fungere må du legge inn en gyldig Firebase-konfigurasjon.
+
+1. Opprett firebaseConfig.ts-fil
+
+2. Fyll inn verdiene
+   ```bash
+   const firebaseConfig = {
+  apiKey: "DIN_API_KEY",
+  authDomain: "DITT_PROSJEKT.firebaseapp.com",
+  databaseURL: "https://DITT_PROSJEKT-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "DITT_PROSJEKT",
+  storageBucket: "DITT_PROSJEKT.appspot.com",
+  messagingSenderId: "DIN_ID",
+  appId: "DIN_APP_ID",
+};
+
+export default firebaseConfig;
+```
