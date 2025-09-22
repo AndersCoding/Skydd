@@ -35,17 +35,18 @@ Appen bruker Firebase til autentisering og datalagring. For at appen skal funger
 1. Opprett firebaseConfig.ts-fil
 
 2. Fyll inn verdiene
-   ``bash
-   const firebaseConfig = {
-  apiKey: "DIN_API_KEY",
-  authDomain: "DITT_PROSJEKT.firebaseapp.com",
-  databaseURL: "https://DITT_PROSJEKT-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "DITT_PROSJEKT",
-  storageBucket: "DITT_PROSJEKT.appspot.com",
-  messagingSenderId: "DIN_ID",
-  appId: "DIN_APP_ID",
-};
+   ```bash
+	  const firebaseConfig = {
+	  apiKey: "DIN_API_KEY",
+	  authDomain: "DITT_PROSJEKT.firebaseapp.com",
+	  databaseURL: "https://DITT_PROSJEKT-default-rtdb.europe-west1.firebasedatabase.app",
+	  projectId: "DITT_PROSJEKT",
+	  storageBucket: "DITT_PROSJEKT.appspot.com",
+	  messagingSenderId: "DIN_ID",
+	  appId: "DIN_APP_ID",
+	};
 
-export default firebaseConfig;
-``
+	export default firebaseConfig;
+   ```
+
 
